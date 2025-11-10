@@ -1,6 +1,6 @@
 # Hi there, I'm Khaled Hasan! 👋
 
-## 🚀 Data Analyst | BI Developer | Full-Stack Data Engineer
+## 🚀 Data Analyst | BI Developer | Data Engineer
 
 I'm passionate about transforming raw data into actionable insights through advanced analytics, ETL pipelines, and interactive dashboards. Currently completing my training at **ITI (Information Technology Institute)** in the Power BI Developer track.
 
